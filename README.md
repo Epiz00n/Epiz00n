@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kiel Principato
 
-I'm a GIAC certified cybersecutiy practioner with a background in IT operations, cyber defense, and tehcnical project management. I've worked in environments ranging from fast-paced retail to large-scale platform migrations, and I'm currently focusing on my threat detection and incident response skill set. 
+I'm a GIAC certified cybersecutiy practioner with a background in IT operations, cyber defense, and technical project management. I've worked in environments ranging from fast-paced retail to large-scale platform migrations, and I'm currently focusing on my threat detection and incident response skill set. 
 
 Currently, I'm enrolled in the SANS Applied Cybersecurity Certificate Program and focused on buidling hands-on skills through their wonderful training platforms, and simulated lab environments.
 
